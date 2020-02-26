@@ -26,7 +26,7 @@
 #define REQUIRE_EXTENSIONS
 #include <smlib>
 
-#define PLUGIN_AUTHOR "atomic-penguin, daniel-murray"
+#define PLUGIN_AUTHOR "atomic-penguin, daniel-murray translated by JohnyP41"
 #define PLUGIN_VERSION "2.11.6"
 #define PLUGIN_NAME "TF2 Hidden"
 #define PLUGIN_DESCRIPTION "Hidden:Source-like mod for TF2"
