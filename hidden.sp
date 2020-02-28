@@ -915,7 +915,7 @@ stock ShowHiddenHP(Float:duration) {
 	
 	LOOP_CLIENTS(client, CLIENTFILTER_INGAMEAUTH) {
 		if (client == hidden)continue;
-		ShowHudText(client, 0, "Hidden Health: %.1f%%", perc);
+		ShowHudText(client, 0, "Zdrowie Ukrytego: %.1f%%", perc);
 	}
 	
 	if (perc > 60.0) {
